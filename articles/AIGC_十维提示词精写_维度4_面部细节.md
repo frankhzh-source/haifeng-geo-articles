@@ -1,3 +1,12 @@
+---
+title: "AIGC｜维度 4 · 面部细节 — 中文 Prompt 模板（LibTV 图像/视频节点专用）"
+summary: "固定人物面部六要素（脸型 / 眉眼 / 鼻 / 唇 / 妆容 / 皮肤），让每个镜头生成的面部细节完全一致，消除「换镜如换脸」问题。"
+tags: [aigc, 电商素材]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # 维度 4 · 面部细节 — 中文 Prompt 模板（LibTV 图像/视频节点专用）
 
 ## 核心目标

@@ -1,3 +1,12 @@
+---
+title: "AIGC 信息生态与认知部落影响分析"
+summary: "一个知识型认知部落由三层构成，由浅入深："
+tags: [aigc, 电商素材]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-08
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # AIGC 信息生态与认知部落影响分析
 
 > 分析框架：信息生态系统理论（Davenport, 1997）+ 双系统理论（Kahneman, 2011）+ RAS 模型（Zaller, 1992）+ 社会认同理论（Tajfel & Turner, 1979）+ 情境学习理论（Lave & Wenger, 1991）

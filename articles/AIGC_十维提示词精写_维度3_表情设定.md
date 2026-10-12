@@ -1,3 +1,12 @@
+---
+title: "维度 3 · 表情设定 — AIGC 专业区分版"
+summary: "但 LibTV 图像节点和 Seedance 视频节点对 Prompt 的要求完全不同，不能混用。"
+tags: [aigc, 电商素材]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # 维度 3 · 表情设定 — AIGC 专业区分版
 
 ## 核心认知（从业者必看）

@@ -1,3 +1,12 @@
+---
+title: "AIGC｜维度 1 · 主视觉肖像 — 中文 Prompt 模板"
+summary: "一张正面半身照，全片面容锚点。所有镜头的脸型、五官、肤色、光影以此为准。"
+tags: [aigc, 电商素材]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # 维度 1 · 主视觉肖像 — 中文 Prompt 模板
 
 ## 核心目标
