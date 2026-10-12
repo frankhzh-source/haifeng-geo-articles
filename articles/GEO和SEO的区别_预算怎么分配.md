@@ -1,3 +1,12 @@
+---
+title: "GEO和SEO到底什么区别？为什么说「SEO是地基，GEO是天花板」"
+summary: "「我网站已经做了SEO，排名还不错，是不是就不用管GEO了？」——这是我被问得最多的一个问题。"
+tags: [geo, 生成式引擎优化, ai搜索]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-10-12
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # GEO和SEO到底什么区别？为什么说「SEO是地基，GEO是天花板」
 
 *本文对应高频搜索词：「GEO和SEO什么区别 / 要不要同时做」。基于T/CAPT 026—2026信源分级框架与行业公开数据整理。*

@@ -1,3 +1,12 @@
+---
+title: "GEO 垂直领域：按价值总量排序 TOP5"
+summary: "普通人能切入的TOP5行业如下（按GEO市场规模排序）。"
+tags: [geo, 生成式引擎优化, ai搜索]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # GEO 垂直领域：按价值总量排序 TOP5
 
 > 基于赛迪研究院《2026年垂直行业GEO报告》、IDC市场数据综合整理
