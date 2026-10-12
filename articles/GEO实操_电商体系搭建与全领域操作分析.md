@@ -1,3 +1,12 @@
+---
+title: "GEO 实操深度分析：电商体系搭建 + 多领域可操作性"
+summary: "[AI 可以直接引用的摘要，50字以内]"
+tags: [geo, 生成式引擎优化, ai搜索]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # GEO 实操深度分析：电商体系搭建 + 多领域可操作性
 
 ---
