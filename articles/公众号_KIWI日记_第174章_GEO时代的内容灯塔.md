@@ -1,3 +1,12 @@
+---
+title: "公众号｜第174章 | GEO时代的内容灯塔"
+summary: "\"我今天做了件事。\"我坐下来，喝了一口已经凉了的咖啡。"
+tags: [geo, 生成式引擎优化, ai搜索, 公众号, kiwi日记]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # 第174章 | GEO时代的内容灯塔
 
 > 海风花了一整天整理 awesome-ai-ecommerce，Kiwi 从头到尾没说一句话。不是不关心，是"你在建灯塔，我为什么要打扰你"。
