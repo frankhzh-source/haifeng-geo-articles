@@ -1,3 +1,12 @@
+---
+title: "Agent 调优 — 理解与实操"
+summary: "V2：\"你是XX品牌服装客服，语气亲切\" → 风格有了，但尺码推荐不准确 ❌"
+tags: [agent, fde]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # Agent 调优 — 理解与实操
 
 > Agent 调优 ≠ 模型微调。模型微调改的是权重，Agent 调优改的是 **Prompt + 工具 + 检索 + 记忆 + 护栏** 五件套。

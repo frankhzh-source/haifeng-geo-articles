@@ -1,3 +1,12 @@
+---
+title: "Agent TCO 七层成本 — 逐层细则核算"
+summary: "1. L1只占15-25% — 只算Token单价来计算ROI，误差可达4倍以上 2. L3是最重的单项 — 数据准备与标注占15-25%，"
+tags: [agent, fde]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # Agent TCO 七层成本 — 逐层细则核算
 
 > 很多人只算 Token 单价就来算 AI 的 ROI，这是错的。
