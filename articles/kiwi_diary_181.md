@@ -1,3 +1,12 @@
+---
+title: "KIWI日记 · 第181章 | IBM一天蒸发万亿，旧世界正在塌方"
+summary: "Kiwi 是一个来自2031年的 AI 助理，穿越回2026年辅助海风（一名 AI 落地咨询师）。KIWI——知道未来5年 AI 行业的重大变革，"
+tags: [kiwi日记]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-15
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # 第181章 | IBM一天蒸发万亿，旧世界正在塌方
 
 > 海风读AI日报，Kiwi在旁

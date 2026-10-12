@@ -1,3 +1,12 @@
+---
+title: "FDE电商AI落地学习体系 -- 整合优化版"
+summary: "直播运营(2D) ──→ 数字人主播(2E) 【数字人是直播的延伸】"
+tags: [agent, fde]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # FDE电商AI落地学习体系 -- 整合优化版
 
 > 原文档 by 海风 | 优化建议 by Kiwi | 2026-05-31
