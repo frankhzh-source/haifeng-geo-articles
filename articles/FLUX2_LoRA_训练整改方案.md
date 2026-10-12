@@ -1,3 +1,12 @@
+---
+title: "FLUX2｜FLUX.2 LoRA 训练整改方案（专业模型训练师版）"
+summary: "反例（不要）：\"elegant dress, lace, satin\" 正例（要）： \"A young woman in her late 20s with long dark…"
+tags: [aigc, 电商素材]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # FLUX.2 LoRA 训练整改方案（专业模型训练师版）
 
 **项目**：达芬奇密码 家居服/内衣 FLUX.2 LoRA 训练  

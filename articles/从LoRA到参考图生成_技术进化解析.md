@@ -1,3 +1,12 @@
+---
+title: "从 LoRA 到参考图生成：图像一致性技术的进化"
+summary: "但这不是谁替代谁——是技术实现路径的变化。"
+tags: [aigc, 电商素材]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # 从 LoRA 到参考图生成：图像一致性技术的进化
 
 ## 一、你观察到的现象是对的

@@ -1,3 +1,12 @@
+---
+title: "AIGC 角色资产一致性 · 十维对照清单"
+summary: "按参考图结构，出片前逐维检查。"
+tags: [aigc, 电商素材]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # AIGC 角色资产一致性 · 十维对照清单
 
 按参考图结构，出片前逐维检查。
