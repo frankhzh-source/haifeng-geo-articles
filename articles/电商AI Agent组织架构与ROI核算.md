@@ -1,3 +1,12 @@
+---
+title: "电商企业 AI Agent 组织架构与 ROI 核算方案"
+summary: "┌─────────────────────────┐ │ 质量审计 (1-2人) │ │ └ Agent输出审核·合规 │ └─────────────────────────┘"
+tags: [agent, fde]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # 电商企业 AI Agent 组织架构与 ROI 核算方案
 
 ## 一、组织架构设计
