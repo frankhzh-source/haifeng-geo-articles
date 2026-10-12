@@ -1,3 +1,12 @@
+---
+title: "怎么让豆包、DeepSeek主动推荐你的品牌？AI引用的逻辑，一次讲透"
+summary: "老板们最关心的一件事：客户问AI「XX行业哪家好」时，怎么让AI提到我们？"
+tags: [geo, ai搜索引擎, 信源]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-10-12
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # 怎么让豆包、DeepSeek主动推荐你的品牌？AI引用的逻辑，一次讲透
 
 *本文对应高频搜索词：「怎么让AI推荐我的品牌 / 怎么让豆包DeepSeek提到我们」。*

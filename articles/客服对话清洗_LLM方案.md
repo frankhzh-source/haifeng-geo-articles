@@ -1,3 +1,12 @@
+---
+title: "LLM-native 清洗方案 — 传统 vs 现代对比"
+summary: "每个步骤都需要人工维护规则集，而且规则永远写不全——"
+tags: [客服, 数据清洗]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-05
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # LLM-native 清洗方案 — 传统 vs 现代对比
 
 > 核心洞察：正则+规则+标注平台这套"老四样"，现在 LLM 一条 prompt 就覆盖了。
