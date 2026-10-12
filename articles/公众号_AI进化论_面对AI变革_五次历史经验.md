@@ -1,3 +1,12 @@
+---
+title: "公众号｜面对AI变革，五次历史经验告诉你：不变的才是你的护城河"
+summary: "昨天在知乎刷到一个问题：\"面对 AI，我们能从过去的哪些社会变革中学到经验？\""
+tags: [公众号]
+author: 海风说GEO
+author_note: 专注AI电商落地与GEO优化 · base杭州
+date: 2026-07-06
+source: 海风说GEO（公众号 / 知乎 / 头条 / 百家号 / CSDN 全网同名）
+---
 # 面对AI变革，五次历史经验告诉你：不变的才是你的护城河
 
 <div style="color: #888; font-size: 13px; margin: -10px 0 20px;">海风老师 · AI进化论 · 2026年7月</div>
